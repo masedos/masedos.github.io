@@ -7,7 +7,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ### Classification problems 
 
-Titanic: Machine Learning from Disaster
+#### Titanic: Machine Learning from Disaster
 
 [Github](/masedos) [Colab](/masedos/)
 
