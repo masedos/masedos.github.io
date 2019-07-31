@@ -1,4 +1,4 @@
-## Portfólio Cientista de Dados - Fernandes Macedo Ribeiro
+## Portifólio Cientista de Dados - Fernandes Macedo Ribeiro
 
 ---
 
