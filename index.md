@@ -11,10 +11,3 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-#### Cursos realizados 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
