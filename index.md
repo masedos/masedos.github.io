@@ -17,7 +17,7 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 
 ### Qualification and Enrichment Activities
 [01] - Bertelsmann Data Science Challenge Scholarship - Udacity - [Challenge](https://www.udacity.com/bertelsmann-data-scholarships)</br>
-[02] - Python Fundamentos para Analise de Dados - Data Science Academia - [Certificado](https://mycourse.app/iBgAnDM5brPFjrY98)</br>
+[02] - Python Fundamentos para Análise de Dados - Data Science Academy - [Certificado](https://mycourse.app/iBgAnDM5brPFjrY98)</br>
 [03] - Machine Learning e Data Science com Python de A à Z - Udemy - [Certificado](https://ude.my/UC-6TS13HFE)</br>
 
 ---
