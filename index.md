@@ -1,4 +1,4 @@
-## Portfólio Cientista de Dados - Fernandes Macedo Ribeiro
+## Data science portfolio by Fernandes Macedo Ribeiro
 <p>
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 </p>
@@ -9,15 +9,33 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 #### Titanic: Machine Learning from Disaster
 
-[Github](https://github.com/masedos/titanic) [Colab](https://colab.research.google.com/drive/1ZtZKo-O-Xs_srY_-BKjsehtXJz0xDAT6)
+[Github](https://github.com/masedos/Titanic-Machine-Learning-from-Disaster) [Colab](https://colab.research.google.com/drive/1ZtZKo-O-Xs_srY_-BKjsehtXJz0xDAT6?usp=sharing)
 
 Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on Kaggle. Titanic dataset provides interesting opportunities for feature engineering.
 
 ---
 
 ### Qualification and Enrichment Activities
-[01] - Bertelsmann Data Science Challenge Scholarship - Udacity - [Challenge](https://www.udacity.com/bertelsmann-data-scholarships)<br />
-[02] - Python Fundamentos para Análise de Dados - Data Science Academy - [Certificado](https://mycourse.app/iBgAnDM5brPFjrY98)<br />
-[03] - Machine Learning e Data Science com Python de A à Z - Udemy - [Certificado](https://ude.my/UC-6TS13HFE)<br />
+[01.01] - Bertelsmann Data Science Challenge Scholarship - Udacity - [Challenge](https://www.udacity.com/bertelsmann-data-scholarships)<br />
+
+[02.01] - Python Fundamentos para Análise de Dados - Data Science Academy - [Certificate](https://mycourse.app/iBgAnDM5brPFjrY98)<br />
+
+[03.01] - Machine Learning e Data Science com Python de A à Z - Udemy - [Certificate](https://ude.my/UC-6TS13HFE)<br />
+
+[04.01] - Desenvolvedor Fullstack Python - Digital Inovation One - [Certificate](https://drive.google.com/file/d/1iMK-Q4Jrs72ribUTeDPNzB70-MUOaPiy/view?usp=sharing)<br />
+
+[05.01] - Machine Learning - Coursera - [Certificado](https://www.coursera.org/account/accomplishments/records/PFZTQLLQPUSW)<br />
+[05.02] - Machine Learning with TensorFlow on Google Cloud Platform Specialization - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/LNAU9LL34BM7)<br />
+[05.01] - Build a Data Science Web App with Streamlit and Python - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/U476HAW2P3YL)<br />
+
+[05.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
+[05.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
+[05.03] - Data Visualization with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/da4c5b3a945e43fdb4083f7bd1d708ee)<br />
+[05.04] - Machine Learning with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/c710aa18555248c0b8c6747e9711eb60)<br />
+[05.05] - Spark Fundamentals I - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/b7655ff57b69416f97407ff97903d842)<br />
+[05.06] - Spark Fundamentals II - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/49c92510c52047fb8bb6c90c102d8b0e)<br />
+[05.07] - Deep Learning Fundamentals - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6d54507b48f1463d987ee2ac471322de)<br />
+[05.08] - Deep Learning with TensorFlow - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6440b3e5707040bfa3c06bd230567f39)<br />
+[05.09] - Accelerating Deep Learning with GPU - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/af85219214334e008bbb867e2c2a20a9)<br />
 
 ---
