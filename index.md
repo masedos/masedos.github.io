@@ -24,7 +24,7 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 
 [04.01] - Desenvolvedor Fullstack Python - Digital Inovation One - [Certificate](https://drive.google.com/file/d/1iMK-Q4Jrs72ribUTeDPNzB70-MUOaPiy/view?usp=sharing)<br />
 
-[05.01] - Machine Learning - Coursera - [Certificado](https://www.coursera.org/account/accomplishments/records/PFZTQLLQPUSW)<br />
+[05.01] - Machine Learning - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/PFZTQLLQPUSW)<br />
 [05.02] - Machine Learning with TensorFlow on Google Cloud Platform Specialization - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/LNAU9LL34BM7)<br />
 [05.01] - Build a Data Science Web App with Streamlit and Python - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/U476HAW2P3YL)<br />
 
