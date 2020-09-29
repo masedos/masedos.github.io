@@ -40,6 +40,9 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 [05.08] - Deep Learning with TensorFlow - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6440b3e5707040bfa3c06bd230567f39)<br />
 [05.09] - Accelerating Deep Learning with GPU - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/af85219214334e008bbb867e2c2a20a9)<br />
 
-[06.01] - Bootcamp - Analista de Machine Learning - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/)<br />
+[06.01] - Bootcamp - Analista de Machine Learning - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/)
+[06.02] - Bootcamp - Cientista de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Cientista-de-Dados)
+
+<br />
 
 ---
