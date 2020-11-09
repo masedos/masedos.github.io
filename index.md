@@ -15,6 +15,13 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 
 ---
 
+### Certificate
+
+IBM Data Science Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/24S99E87CSN4) -
+[Github](https://github.com/masedos/Coursera_Capstone/)<br />
+
+---
+
 ### Qualification and Enrichment Activities
 [01.01] - Bertelsmann Data Science Challenge Scholarship - Udacity - [Challenge](https://www.udacity.com/bertelsmann-data-scholarships)<br />
 
@@ -29,6 +36,9 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 [05.02] - Build a Data Science Web App with Streamlit and Python - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/U476HAW2P3YL) -
 [Github](https://github.com/masedos/Build-a-Data-Science-Web-App-with-Streamlit-and-Python)<br />
 [05.03] - Applied Data Science with Python Specialization - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZRWCR8XT9AYS)<br />
+
+[05.04] - IBM Data Science Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/records/24S99E87CSN4) -
+[Github](https://github.com/masedos/Coursera_Capstone/)<br />
 
 [05.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
 [05.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
