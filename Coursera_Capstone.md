@@ -88,4 +88,4 @@ For our analysis the answers to the above questions are:
 - Manhattan is the best place to stay if you prefer Brazilian Cuisine.
 
 
-For more details see [Portfolio](https://masedos.github.io/) or [Certificate](https://masedos.github.io/).
+For more details see [Portfolio](https://masedos.github.io/) or [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5RTDKYFCAXR).
