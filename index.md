@@ -50,7 +50,7 @@ IBM Data Science Professional Certificate - Coursera - [Certificate](https://www
 [05.09] - Accelerating Deep Learning with GPU - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/af85219214334e008bbb867e2c2a20a9)<br />
 
 [06.01] - Bootcamp - Analista de Machine Learning - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/)<br />
-[06.02] - Bootcamp - Cientista de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Cientista-de-Dados)<br />
+[06.02] - Bootcamp - Cientista de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Cientista%20de%20Dados.pdf) - [Github](https://github.com/masedos/Bootcamp-Cientista-de-Dados)<br />
 
 [07.01] - Data Analysis with Python: Zero to Pandas - jovian.ml - [Certificate](https://jovian.ml/certificate/MFQTCMZZGA) - [Github](https://github.com/masedos/Data-Analysis-with-Python-Zero-to-Pandas)<br />
 
