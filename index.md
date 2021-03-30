@@ -58,4 +58,6 @@ IBM Data Science Professional Certificate - Coursera - [Certificate](https://www
 
 [07.01] - Data Analysis with Python: Zero to Pandas - jovian.ml - [Certificate](https://jovian.ml/certificate/MFQTCMZZGA) - [Github](https://github.com/masedos/Data-Analysis-with-Python-Zero-to-Pandas)<br />
 
+[08.01] - Python para Processamento de Linguagem Natural - USP - ICM - [Certificate](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural/blob/main/certificadoDigital.pdf) - [Github](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural)<br />
+
 ---
