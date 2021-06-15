@@ -41,7 +41,7 @@ IBM Machine Learning Professional Certificate - Coursera - [Certificate](https:/
 [Github](https://github.com/masedos/Coursera_Capstone/)<br />
 [05.05] - Python for Everybody Specialization - Coursera - [Certificate](https://www.coursera.org/verify/specialization/Y66N9BGWP8GQ)<br />
 [05.06] - Practical Time Series Analysis - Coursera - [Certificate](http://coursera.org/verify/J62EHVFMTZZ8)<br />
-[05.06] -IBM Machine Learning Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BWJADUBLXXFH)<br />
+[05.06] - IBM Machine Learning Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BWJADUBLXXFH)<br />
 
 [05.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
 [05.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
