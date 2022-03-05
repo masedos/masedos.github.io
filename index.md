@@ -19,7 +19,12 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 
 IBM Data Science Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5RTDKYFCAXR) -
 [Github](https://github.com/masedos/Coursera_Capstone/)<br />
+
 IBM Machine Learning Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BWJADUBLXXFH)<br />
+
+IBM Data Analyst Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C8C67N56EVZE)<br />
+
+Google Data Analytics Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UZBRQ8Y6XNCG)<br />
 
 ---
 
