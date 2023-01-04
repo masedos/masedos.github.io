@@ -49,6 +49,9 @@ Google Data Analytics Professional Certificate - Coursera - [Certificate](https:
 [05.06] - IBM Machine Learning Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BWJADUBLXXFH)<br />
 [05.07] - IBM Data Analyst Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C8C67N56EVZE)<br />
 [05.08] - Google Data Analytics Professional Certificate - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UZBRQ8Y6XNCG)<br />
+[05.09] - Google IT Automation with Python - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ULRTCUZGN49S)<br />
+[05.10] - Machine Learning Engineering for Production (MLOps) - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/VDMNBV23NDZH)<br />
+[05.11] - Machine Learning Specialization - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/ZXX7GL4D2N5C)<br />
 
 [05.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
 [05.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
