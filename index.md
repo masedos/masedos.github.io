@@ -53,24 +53,24 @@ Google Data Analytics Professional Certificate - Coursera - [Certificate](https:
 [05.10] - Machine Learning Engineering for Production (MLOps) - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/VDMNBV23NDZH)<br />
 [05.11] - Machine Learning Specialization - Coursera - [Certificate](https://www.coursera.org/account/accomplishments/specialization/ZXX7GL4D2N5C)<br />
 
-[05.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
-[05.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
-[05.03] - Data Visualization with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/da4c5b3a945e43fdb4083f7bd1d708ee)<br />
-[05.04] - Machine Learning with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/c710aa18555248c0b8c6747e9711eb60)<br />
-[05.05] - Spark Fundamentals I - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/b7655ff57b69416f97407ff97903d842)<br />
-[05.06] - Spark Fundamentals II - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/49c92510c52047fb8bb6c90c102d8b0e)<br />
-[05.07] - Deep Learning Fundamentals - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6d54507b48f1463d987ee2ac471322de)<br />
-[05.08] - Deep Learning with TensorFlow - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6440b3e5707040bfa3c06bd230567f39)<br />
-[05.09] - Accelerating Deep Learning with GPU - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/af85219214334e008bbb867e2c2a20a9)<br />
+[06.01] - Python for Data Science - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/7b1ae3e67afe47569eea2805fd3f352d)<br />
+[06.02] - Data Analysis with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/90d925316a0043c4bb3b139c87a63bbd)<br />
+[06.03] - Data Visualization with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/da4c5b3a945e43fdb4083f7bd1d708ee)<br />
+[06.04] - Machine Learning with Python - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/c710aa18555248c0b8c6747e9711eb60)<br />
+[06.05] - Spark Fundamentals I - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/b7655ff57b69416f97407ff97903d842)<br />
+[06.06] - Spark Fundamentals II - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/49c92510c52047fb8bb6c90c102d8b0e)<br />
+[06.07] - Deep Learning Fundamentals - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6d54507b48f1463d987ee2ac471322de)<br />
+[06.08] - Deep Learning with TensorFlow - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/6440b3e5707040bfa3c06bd230567f39)<br />
+[06.09] - Accelerating Deep Learning with GPU - cognitiveclass.ai - [Certificate](https://courses.cognitiveclass.ai/certificates/af85219214334e008bbb867e2c2a20a9)<br />
 
-[06.01] - Bootcamp - Analista de Machine Learning - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/)<br />
-[06.02] - Bootcamp - Cientista de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Cientista%20de%20Dados.pdf) - [Github](https://github.com/masedos/Bootcamp-Cientista-de-Dados)
+[07.01] - Bootcamp - Analista de Machine Learning - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf) - [Github](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/)<br />
+[07.02] - Bootcamp - Cientista de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Cientista%20de%20Dados.pdf) - [Github](https://github.com/masedos/Bootcamp-Cientista-de-Dados)
 <br />
-[06.03] - Bootcamp - Engenharia de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/blob/main/Fernandes%20Macedo%20RibeiroBootcamp%20Engenharia%20de%20Dados.pdf) - [Github](https://github.com/masedos/Bootcamp-Engenharia-de-Dados)
+[07.03] - Bootcamp - Engenharia de Dados - IGTI - [Certificate](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/blob/main/Fernandes%20Macedo%20RibeiroBootcamp%20Engenharia%20de%20Dados.pdf) - [Github](https://github.com/masedos/Bootcamp-Engenharia-de-Dados)
 <br />
 
-[07.01] - Data Analysis with Python: Zero to Pandas - jovian.ml - [Certificate](https://jovian.ml/certificate/MFQTCMZZGA) - [Github](https://github.com/masedos/Data-Analysis-with-Python-Zero-to-Pandas)<br />
+[08.01] - Data Analysis with Python: Zero to Pandas - jovian.ml - [Certificate](https://jovian.ml/certificate/MFQTCMZZGA) - [Github](https://github.com/masedos/Data-Analysis-with-Python-Zero-to-Pandas)<br />
 
-[08.01] - Python para Processamento de Linguagem Natural - USP - ICM - [Certificate](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural/blob/main/certificadoDigital.pdf) - [Github](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural)<br />
+[09.01] - Python para Processamento de Linguagem Natural - USP - ICM - [Certificate](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural/blob/main/certificadoDigital.pdf) - [Github](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural)<br />
 
 ---
