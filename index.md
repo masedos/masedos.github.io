@@ -5,6 +5,9 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ---
 
+#### The Battle of Neighborhoods: Recommended System Based on the Neighborhoods Similarity
+
+
 ### Classification problems 
 
 #### Titanic: Machine Learning from Disaster
