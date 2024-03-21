@@ -5,8 +5,18 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ---
 
+### Recommendation system
+
 #### The Battle of Neighborhoods: Recommended System Based on the Neighborhoods Similarity
 
+In this study, I analyzed the relationship between the neighborhoods of New York City to find insights. So now, we can answer the questions asked above in the Business Understand section of the notebook. For our analysis the answers to the above questions are:
+
+- Greenwich Villag (Manhattan), West Village (Manhattan), Astoria (Queens) are some of the best neighborhoods for Brazilian Cuisine.
+- Manhattan have potential to Brazilian Restaurant Market.
+- Bedford Stuyvesant ranks last in average rating of Brazilian Restaurants.
+- Manhattan is the best place to stay if you prefer Brazilian Cuisine.
+
+[Report](https://masedos.github.io/Coursera_Capstone)
 
 ### Classification problems 
 
