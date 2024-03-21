@@ -16,7 +16,7 @@ In this study, I analyzed the relationship between the neighborhoods of New York
 - Bedford Stuyvesant ranks last in average rating of Brazilian Restaurants.
 - Manhattan is the best place to stay if you prefer Brazilian Cuisine.
 
-[Report](https://masedos.github.io/Coursera_Capstone)
+[Report](https://masedos.github.io/Coursera_Capstone) [Notebook](https://github.com/masedos/Coursera_Capstone/blob/main/Week%205/The_Battle_of_Neighborhoods_Week_2_Part_2.ipynb)
 
 ### Classification problems 
 
