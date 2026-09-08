@@ -3,3 +3,4 @@ Portfolio: [masedos.github.io](http://masedos.github.io) <br>
 E-mail: masedos@gmail.com <br>
 Linkedin: [http://www.linkedin.com/in/masedos](http://www.linkedin.com/in/masedos)
 
+version: 1.1
