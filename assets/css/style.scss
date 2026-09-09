@@ -3,106 +3,101 @@
 
 @import "{{ site.theme }}";
 
-/* Monochrome (black & white) palette, follows the visitor's OS light/dark preference */
+/* Monochrome (black & white) palette. Follows the OS light/dark preference
+   by default, and can be overridden manually via the toggle button
+   (see _includes/head-custom.html), which stamps data-theme on <html>. */
 
 :root {
   color-scheme: light dark;
+  --bg: #ffffff;
+  --fg: #000000;
+  --fg-muted: #555555;
+  --border: #cccccc;
+  --code-bg: rgba(0, 0, 0, 0.06);
+  --pre-bg: #f2f2f2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #000000;
+    --fg: #ffffff;
+    --fg-muted: #aaaaaa;
+    --border: #333333;
+    --code-bg: rgba(255, 255, 255, 0.1);
+    --pre-bg: #111111;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #000000;
+  --fg: #ffffff;
+  --fg-muted: #aaaaaa;
+  --border: #333333;
+  --code-bg: rgba(255, 255, 255, 0.1);
+  --pre-bg: #111111;
 }
 
 body {
-  color: #000000;
-  background-color: #ffffff;
+  color: var(--fg);
+  background-color: var(--bg);
 }
 
 a {
-  color: #000000;
+  color: var(--fg);
   text-decoration: underline;
 }
 
 a:hover {
-  color: #555555;
+  color: var(--fg-muted);
 }
 
 .markdown-body blockquote {
-  color: #555555;
-  border-left-color: #cccccc;
+  color: var(--fg-muted);
+  border-left-color: var(--border);
 }
 
 .markdown-body hr {
-  background-color: #cccccc;
+  background-color: var(--border);
 }
 
 .markdown-body h6 {
-  color: #555555;
+  color: var(--fg-muted);
 }
 
 .markdown-body table tr {
-  background-color: #ffffff;
-  border-top-color: #cccccc;
+  background-color: var(--bg);
+  border-top-color: var(--border);
 }
 
 .markdown-body table td {
-  border-color: #cccccc;
+  border-color: var(--border);
 }
 
 .markdown-body code,
 .markdown-body tt {
-  background-color: rgba(0, 0, 0, 0.06);
+  background-color: var(--code-bg);
+  color: var(--fg);
 }
 
 .markdown-body .highlight pre,
 .markdown-body pre {
-  background-color: #f2f2f2;
+  background-color: var(--pre-bg);
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #ffffff;
-    background-color: #000000;
-  }
+.markdown-body img {
+  background-color: transparent;
+}
 
-  a {
-    color: #ffffff;
-  }
-
-  a:hover {
-    color: #aaaaaa;
-  }
-
-  .markdown-body blockquote {
-    color: #aaaaaa;
-    border-left-color: #333333;
-  }
-
-  .markdown-body hr {
-    background-color: #333333;
-  }
-
-  .markdown-body h6 {
-    color: #aaaaaa;
-  }
-
-  .markdown-body table tr {
-    background-color: #000000;
-    border-top-color: #333333;
-  }
-
-  .markdown-body table td {
-    border-color: #333333;
-  }
-
-  .markdown-body code,
-  .markdown-body tt {
-    background-color: rgba(255, 255, 255, 0.1);
-    color: #ffffff;
-  }
-
-  .markdown-body .highlight pre,
-  .markdown-body pre {
-    background-color: #111111;
-  }
-
-  .markdown-body img {
-    background-color: transparent;
-  }
+#theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 1000;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  border: 1px solid var(--fg);
+  border-radius: 4px;
+  background-color: var(--bg);
+  color: var(--fg);
 }
