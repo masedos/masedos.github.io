@@ -15,6 +15,7 @@
   --border: #cccccc;
   --code-bg: rgba(0, 0, 0, 0.06);
   --pre-bg: #f2f2f2;
+  --bg-alt: #f6f8fa;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +26,7 @@
     --border: #333333;
     --code-bg: rgba(255, 255, 255, 0.1);
     --pre-bg: #111111;
+    --bg-alt: #0d0d0d;
   }
 }
 
@@ -35,6 +37,7 @@
   --border: #333333;
   --code-bg: rgba(255, 255, 255, 0.1);
   --pre-bg: #111111;
+  --bg-alt: #0d0d0d;
 }
 
 body {
@@ -69,8 +72,14 @@ a:hover {
   border-top-color: var(--border);
 }
 
+.markdown-body table tr:nth-child(2n) {
+  background-color: var(--bg-alt);
+}
+
+.markdown-body table th,
 .markdown-body table td {
   border-color: var(--border);
+  color: var(--fg);
 }
 
 .markdown-body code,
