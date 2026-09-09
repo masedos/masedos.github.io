@@ -17,7 +17,7 @@ Data Scientist focused on turning data into decisions: exploratory analysis, mac
 
 ### Artigos
 
-- [Avaliação de Modelos](model_valulation.md)
+- [Avaliação de Modelos](model_evaluation.md)
 
 ---
 
