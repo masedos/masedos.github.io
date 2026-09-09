@@ -29,20 +29,27 @@
 
 - Acurácia (*accuracy*) — Mede a porcentagem total de previsões corretas do modelo.
 
-$$ \text{Acurácia} = \frac{TP + TN}{TP + TN + FP + FN} $$
-
+$$ 
+\text{Acurácia} = \frac{TP + TN}{TP + TN + FP + FN} 
+$$
 
 - Precisão (*precision*) - Indica a proporção de verdadeiros positivos entre todas a previsões positivas feitas.
 
-$$ \text{Precisão} = \frac{VP}{VP + FP} $$
+$$ 
+\text{Precisão} = \frac{VP}{VP + FP} 
+$$
 
 - Revocação(*recall*) - Mede a capacidade do modelo de encontrar todos os casos positivos reais.
 
-$$ \text{Revocação} = \frac{VP}{VP + FN} $$
+$$ 
+\text{Revocação} = \frac{VP}{VP + FN} 
+$$
 
 - F1-score - É a medida harmônica entre a precisão e revocação.
 
-$$ \text{F1-Score} = 2 \times \frac{\text{Precisão} \times \text{Recall}}{\text{Precisão} + \text{Recall}} $$
+$$ 
+\text{F1-Score} = 2 \times \frac{\text{Precisão} \times \text{Recall}}{\text{Precisão} + \text{Recall}} 
+$$
 
 - Curva ROC e AUC - Avaliam a separação entre as classes em diferentes limites de decisão.
 - Curva Precision-Recall
@@ -56,18 +63,24 @@ $$ \text{F1-Score} = 2 \times \frac{\text{Precisão} \times \text{Recall}}{\text
 
 - MAE (*Mean Absolute Error* - Erro Absoluto Médio) - Média da soma dos valores absolutos dos erros.
 
-$$ \text{MAE} = \frac{1}{n}\sum_{i=1}^{n}|y_i - \hat{y}_i| $$
+$$ 
+\text{MAE} = \frac{1}{n}\sum_{i=1}^{n}|y_i - \hat{y}_i| 
+$$
 
 Analogia: Pense que uma casa pode ser vendida por R$ 500.000,00, mas é vendida por R$ 525.000,00 e na próxima semana pensa que pode ser vendida por R$ 400.000,00, mas é vendida por R$ 390.000,00, seu MAE é R$ 17.500,00, ou seja, (R$ 25.000,00 + R$ 10.000,00, divido por 2). O MAE ignora se um modelo está consistentemente superestimando ou subestimando suas previsões. Ele simplismente analisa a distância média em relação à verdade.
 
 - RSE (Relative Squared Error)
 
-$$ \text{RSE} = \frac{\sum_{i=1}^{n}(y_i - \hat{y}_i)^2}
-{\sum_{i=1}^{n}(y_i - \bar{y})^2} $$
+$$ 
+\text{RSE} = \frac{\sum_{i=1}^{n}(y_i - \hat{y}_i)^2}
+{\sum_{i=1}^{n}(y_i - \bar{y})^2} 
+$$
 
 - RMSE (*Root Mean Squared Error* - Raiz do Erro Quadrático Médio) - 
 
-$$ \text{RMSE} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2} $$
+$$ 
+\text{RMSE} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2} 
+$$
 
 - MSE e RMSE (Erro Quadrático Médio)
 - MAPE (Erro Percentual Absoluto Médio)
