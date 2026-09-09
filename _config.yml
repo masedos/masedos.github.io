@@ -1,4 +1,5 @@
 title: masedos.github.io
+theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
   math_engine: mathjax
